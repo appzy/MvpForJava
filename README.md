@@ -116,7 +116,7 @@ WanAndroidFormRequestClient.getInstance().executeGet(UrlConstant.GET_BANNER_JSON
 
 
 
-## 一些问题
+## 遇到的一些问题
 #### 1.ARoter报错
 先检查一下所有模块是否都在build.gradle文件中添加了
 ```
@@ -160,6 +160,8 @@ kapt 'com.alibaba:arouter-compiler:x.x.x'
 #### [WanAndroid](https://www.wanandroid.com/)
 #### [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
 #### [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
+
+Copyright (C) 2022, appzy
 
 
 
